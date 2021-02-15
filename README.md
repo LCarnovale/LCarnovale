@@ -1,10 +1,11 @@
 ### Hi! I'm Leo
 
-I am a fourth year Physics and Computer Science student at UNSW. 
+I am a fifth year Advanced Physics and Computer Science student at UNSW, currently doing my Honours in Physics.
 On my GitHub I have a few pieces of code from various subjects at uni, aswell as some projects 
 I've tried on the side. 
 
-Reach me at: leo.carnovale@gmail.com
+Reach me at: leo.carnovale@gmail.com or l.carnovale@unsw.edu.au
+
 
 <!--
 **LCarnovale/LCarnovale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
