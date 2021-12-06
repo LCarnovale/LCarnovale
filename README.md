@@ -1,10 +1,11 @@
 ### Hi! I'm Leo
 
-I am a fifth year Advanced Physics and Computer Science student at UNSW, currently doing my Honours in Physics.
-On my GitHub I have a few pieces of code from various subjects at uni, aswell as some projects 
+In 2021 I completed my Honours in Physics as part of a degree in Advanced Physics and Computer Science (specialising in AI).
+On my GitHub I have a few pieces of code from various subjects at uni, as well as some projects 
 I've tried on the side. 
 
-Reach me at: leo.carnovale@gmail.com or l.carnovale@unsw.edu.au
+Reach me at: leo.carnovale@gmail.com
+LinkedIn: https://www.linkedin.com/in/lcarnovale20/
 
 
 <!--
