@@ -4,7 +4,7 @@ In 2021 I completed my Honours in Physics as part of a degree in Advanced Physic
 On my GitHub I have a few pieces of code from various subjects at uni, as well as some projects 
 I've tried on the side. 
 
-Reach me at: leo.carnovale@gmail.com
+Reach me at: leo.carnovale@gmail.com \
 LinkedIn: https://www.linkedin.com/in/lcarnovale20/
 
 
